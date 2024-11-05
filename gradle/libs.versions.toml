@@ -1,6 +1,6 @@
 [versions]
 koinVersion = "4.0.0"
-kotlin = "1.9.22"
+kotlin = "1.9.25"
 kotlinx-collections-immutable = "0.3.8"
 kotlinx-coroutines = "1.9.0"
 kotlinx-atomicfu = "0.26.0"
@@ -35,7 +35,7 @@ koin-compose = "4.0.0"
 kmp-viewmodel = "0.8.0"
 solivagant = "0.5.0"
 
-ksp = "1.9.22-1.0.18"
+ksp = "1.9.25-1.0.20"
 
 [libraries]
 koin-android = { module = "io.insert-koin:koin-android", version.ref = "koinVersion" }
