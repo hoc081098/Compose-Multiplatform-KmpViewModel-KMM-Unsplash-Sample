@@ -28,7 +28,7 @@ arrow-kt = "1.2.4"
 kamel-image = "0.9.4"
 napier = "2.7.1"
 flow-ext = "1.0.0"
-koin-annotations = "1.3.1"
+koin-annotations = "1.4.0"
 koin-core = "4.0.0"
 koin-compose = "4.0.0"
 
