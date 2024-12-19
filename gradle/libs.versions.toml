@@ -7,7 +7,7 @@ kotlinx-atomicfu = "0.26.0"
 kotlinx-datetime = "0.6.1"
 kotlinx-serialization = "1.6.3"
 
-jetbrains-compose-mutiplatform = "1.5.12"
+jetbrains-compose-mutiplatform = "1.7.3"
 
 java-target = "17"
 java-toolchain = "17"
