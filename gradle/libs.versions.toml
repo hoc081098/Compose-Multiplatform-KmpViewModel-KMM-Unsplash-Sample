@@ -25,7 +25,7 @@ androidx-core = "1.13.1"
 ktor = "2.3.12"
 
 arrow-kt = "1.2.4"
-kamel-image = "0.9.4"
+kamel-image = "1.0.3"
 napier = "2.7.1"
 flow-ext = "1.0.0"
 koin-annotations = "1.3.1"
